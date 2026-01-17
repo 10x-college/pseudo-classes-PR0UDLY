@@ -8,6 +8,7 @@
 🔗 Figma ლინკი: [Css fundamentals](https://www.figma.com/design/itqAVhJDIn39O3pYHuftbz/POS-restaurant-UI-system--Community-?node-id=0-1&p=f&t=f4Rg2a8ONnbGR6Ax-0)
 
 🛠 ტექნიკური მოთხოვნები (Technical Requirements)
+
 1. Semantic HTML
 
 გამოიყენეთ სემანტიკური HTML ტეგები, როგორიცაა:
